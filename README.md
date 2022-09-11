@@ -1,2 +1,2 @@
-# Programacao Concorrente
+# Programação Concorrente
 Estudos Dirigidos de Programação Concorrente - Universidade de Brasília 
